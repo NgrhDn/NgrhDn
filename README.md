@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ngurah Dena</h1>
+<h1 align="center">Hi 👋, I'm Danda Nugroho </h1>
 <h3 align="center">A passionate Full-Stack JavaScript Developer from Indonesia.</h3>
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
@@ -8,11 +8,11 @@
 - 🔭 I’m currently building things with **React, Next.js, and Node.js**.
 - 🌱 I’m always learning and exploring new technologies in the JavaScript ecosystem.
 - 🎨 Fun fact: I also enjoy UI/UX design and working with Figma.
-- 📫 How to reach me: **(ganti dengan emailmu di sini)**
+- 📫 How to reach me: -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ngrhdn-linkedin" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="[ngrhdn-linkedin](https://www.linkedin.com/in/danda-nugroho-hibatulloh/)" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngrhdn-instagram" height="30" width="40" /></a>
 </p>
 
