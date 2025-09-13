@@ -1,5 +1,9 @@
-# GitHub Action yang lebih simpel dan modern
+# GitHub Action dengan izin yang sudah diperbaiki
 name: Generate Snake
+
+# BARIS BARU DI SINI: Memberikan izin tulis ke Action
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -11,17 +15,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 # Menggunakan versi terbaru
+      - uses: actions/checkout@v3
 
       - uses: Platane/snk@v3
         with:
-          # PENTING: Username sudah benar
           github_user_name: NgrhDn
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3 # Menggunakan versi terbaru
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
