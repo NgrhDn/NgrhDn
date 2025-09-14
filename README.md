@@ -5,21 +5,14 @@
   <img src="https://media.giphy.com/media/gHGnWbaHdBmWg2Y37j/giphy.gif" alt="Coding Animation" width="600"/>
 </p>
 
-Saya adalah seorang **Full-Stack Developer** dari Indonesia yang bersemangat dalam membangun aplikasi web yang modern dan fungsional. Saya memiliki pengalaman mendalam di ekosistem **JavaScript** (React, Next.js, Node.js) dan juga menikmati bekerja dengan **PHP** menggunakan framework Laravel.
-
-Selain coding, saya juga memiliki ketertarikan tinggi di dunia **UI/UX Design**. Bagi saya, aplikasi yang hebat tidak hanya harus berjalan dengan baik di belakang layar, tetapi juga harus intuitif dan menyenangkan untuk digunakan oleh pengguna.
-
-Saat ini, saya terus mengeksplorasi teknologi baru untuk memperluas wawasan dan menciptakan solusi digital yang lebih baik. Jangan ragu untuk terhubung atau sekadar menyapa!
-
----
 
 ### 🔗 Terhubung dengan Saya:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/danda-nugroho-hibatulloh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="danda-nugroho-hibatulloh" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-danda" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-danda" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website-danda" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__.ngrhdn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-danda" height="30" width="40" /></a>
+
+
 </p>
 
 ---
@@ -60,6 +53,4 @@ Saat ini, saya terus mengeksplorasi teknologi baru untuk memperluas wawasan dan 
   </picture>
 </div>
 
----
 
-### ✨ Beberapa Fakta Tentang Saya:
