@@ -53,6 +53,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9fv6bh9yro998apuwnwavahc9&cover_image=true&theme=default&show_offline=false&background_color=8b8989&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ### 📊 Statistik GitHub Saya:
 
 <p align="center">
