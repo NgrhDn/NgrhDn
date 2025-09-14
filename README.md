@@ -53,7 +53,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9fv6bh9yro998apuwnwavahc9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=808080&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9fv6bh9yro998apuwnwavahc9&redirect=true)
 
 ### 📊 Statistik GitHub Saya:
 
